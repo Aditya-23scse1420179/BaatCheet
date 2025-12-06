@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# 💬 BaatCheet — Real-Time Chat Application
 
-## Project info
+BaatCheet is a modern real-time chat application designed for fast, secure, and seamless communication. Built with a full-stack architecture, it focuses on performance, scalability, and clean user experience. This project reflects real-world system design and practical implementation of live messaging.
 
-**URL**: https://lovable.dev/projects/1f92621f-255b-46da-8f21-fcea228063a4
+---
 
-## How can I edit this code?
+## ✨ Key Features
 
-There are several ways of editing your application.
+- ✅ Secure user authentication  
+- 💬 Real-time one-to-one messaging  
+- ⚡ Instant message delivery using WebSockets  
+- 🟢 Online / Offline status tracking  
+- 📱 Fully responsive UI  
+- 🔒 Protected routes and data handling  
+- 🚀 High performance and low latency  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1f92621f-255b-46da-8f21-fcea228063a4) and start prompting.
+## 🛠 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+**Frontend**
+- HTML, CSS, JavaScript  
+- React (if applicable, otherwise remove)
 
-**Use your preferred IDE**
+**Backend**
+- Node.js  
+- Express.js  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Database**
+- MongoDB  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Real-Time Communication**
+- Socket.io  
 
-Follow these steps:
+**Tools & Utilities**
+- Git & GitHub  
+- Postman (for API testing)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📂 Project Structure
+BaatCheet/
+│
+├── client/ # Frontend application
+├── server/ # Backend server
+├── models/ # Database schemas
+├── routes/ # API routes
+├── controllers/ # Business logic
+├── sockets/ # Real-time socket logic
+├── .env # Environment variables
+├── package.json
+└── README.md
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## ⚙️ Setup & Installation
 
-**Edit a file directly in GitHub**
+Follow these steps to run the project locally:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 1️⃣ Clone the Repository
 
-**Use GitHub Codespaces**
+git clone https://github.com/Aditya-23scse1420179/Baatcheet.git
+cd Baatcheet
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+👨‍💻 Author
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1f92621f-255b-46da-8f21-fcea228063a4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Aditya
+B.Tech – Computer Science Engineering (Data Science)
+Galgotias University.
