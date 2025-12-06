@@ -36,23 +36,6 @@ BaatCheet is a modern real-time chat application designed for fast, secure, and 
 - Git & GitHub  
 - Postman (for API testing)
 
----
-
-## 📂 Project Structure
-BaatCheet/
-│
-├── client/ # Frontend application
-├── server/ # Backend server
-├── models/ # Database schemas
-├── routes/ # API routes
-├── controllers/ # Business logic
-├── sockets/ # Real-time socket logic
-├── .env # Environment variables
-├── package.json
-└── README.md
-
----
-
 ## ⚙️ Setup & Installation
 
 Follow these steps to run the project locally:
